@@ -1,5 +1,5 @@
 {
-  "name": "@mrbatista/angular-cron-gen",
+  "name": "@iooota_srl/angular-cron-gen",
   "version": "1.0.0",
   "description": "A cron expression generator for AngularJS.",
   "main": "dist/cron-gen.min.js",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mrbatista/angular-cron-gen.git"
+    "url": "https://github.com/IOOOTASrl/angular-cron-gen.git"
   },
   "keywords": [
     "angular",
@@ -26,7 +26,7 @@
   "author": "Vincent Pizzo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mrbatista/angular-cron-gen/issues"
+    "url": "https://github.com/IOOOTASrl/angular-cron-gen/issues"
   },
   "devDependencies": {
     "@semantic-release/git": "^7.0.8",
